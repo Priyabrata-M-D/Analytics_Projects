@@ -19,7 +19,7 @@ The data/ folder contains Excel files with different tabs for acquisition channe
 * Identifying drivers of engagement
 * visualizes key findings from the analysis using interactive dashboards and charts.
 
-Key visualizations include:
+### Key visualizations include:
 
 User acquisition by channel
 Engagement metrics by channel, campaigns, interests and user attributes
